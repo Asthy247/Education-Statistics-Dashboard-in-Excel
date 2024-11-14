@@ -58,7 +58,8 @@ This stacked bar chart shows the proportion of countries with and without comple
 
 # Dashboard for Education Statistics
 
-<img width="491" alt="image" src="https://github.com/user-attachments/assets/86c92c77-8f1d-4f22-870e-3c27d28bddda">
+![image](https://github.com/user-attachments/assets/d9db94b6-3134-4484-98a3-38068f430062)
+
 
 
 **Insight**: The visualization helps identify the income groups where vital registration is more prevalent or less prevalent.
